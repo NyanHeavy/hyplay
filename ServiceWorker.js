@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-hyplay-1.0";
 const contentToCache = [
-    "Build/hyplay-test.loader.js",
-    "Build/hyplay-test.framework.js",
-    "Build/hyplay-test.data",
-    "Build/hyplay-test.wasm",
+    "Build/Hyplay.loader.js",
+    "Build/Hyplay.framework.js",
+    "Build/Hyplay.data",
+    "Build/Hyplay.wasm",
     "TemplateData/style.css"
 
 ];
